@@ -8,7 +8,7 @@ def pythagorean_triples(a,b,c):
   >>>pythagorean_triples (2,0,2):
   True
   """
-  if a^2+b^2==c^2:
+  if (a**2)+(b**2)==(c**2):
     return True
   else:
     return False
