@@ -5,7 +5,7 @@ def pythagorean_triples(a,b,c):
 
   >>> pythagorean_triples(2,4,5):
   False
-  >>>pythagorean_triples (2,0,2):
+  >>> pythagorean_triples (2,0,2):
   True
   """
   if (a**2)+(b**2)==(c**2):
