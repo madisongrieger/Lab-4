@@ -10,5 +10,5 @@ def is_triangle(a,b,c):
   """
   if a+b==c:
     return True
-  else (a+b)!==c:
+  else:
     return False
