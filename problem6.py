@@ -42,7 +42,7 @@ def c():
   return True
 
 def t():
-  print (2)
+  print (1)
 
 def f():
- print (1)
+ print (2)
