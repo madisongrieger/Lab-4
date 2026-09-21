@@ -9,7 +9,7 @@ def if_function(condition, true_result, false_result):
   >>> if_function(3==2, 3+2, 3-2)
   1
   >>> if_function(3>2, 3+2, 3-2)
-  5 
+  5
   """
   if condition:
     return true_result
