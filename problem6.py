@@ -25,7 +25,7 @@ def with_if_statement():
   """
   if c():
     return t()
-  else: 
+  else:
     return f()
 
 def with_if_function():
