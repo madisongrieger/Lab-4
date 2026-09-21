@@ -39,7 +39,7 @@ def with_if_function():
   return if_function(c(), t(), f())
 
 def c():
-  return True
+  return False
 
 def t():
   print (1)
